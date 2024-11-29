@@ -1,6 +1,19 @@
 {
-  "/Services/page": "app/Services/page.js",
-  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/About/page": "app/About/page.js",
+  "/Contacts/page": "app/Contacts/page.js",
+  "/Home/page": "app/Home/page.js",
   "/IT/page": "app/IT/page.js",
-  "/import/page": "app/import/page.js"
+  "/Insurance/page": "app/Insurance/page.js",
+  "/Sec/page": "app/Sec/page.js",
+  "/Services/page": "app/Services/page.js",
+  "/cars/page": "app/cars/page.js",
+  "/construction/page": "app/construction/page.js",
+  "/general-printing/page": "app/general-printing/page.js",
+  "/graphic-design/page": "app/graphic-design/page.js",
+  "/import/page": "app/import/page.js",
+  "/logistics/page": "app/logistics/page.js",
+  "/medical/page": "app/medical/page.js",
+  "/page": "app/page.js",
+  "/starlink/page": "app/starlink/page.js"
 }

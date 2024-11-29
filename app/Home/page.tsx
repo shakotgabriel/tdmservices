@@ -4,9 +4,8 @@ import Image from 'next/image';
 
 // Dynamically import ScrollAnimation for performance optimization
 const ScrollAnimation = dynamic(() => import('@/components/scroll-animation'), { ssr: false });
-
 // Reusable WhiteCard Component
-const WhiteCard = ({ text }) => (
+const WhiteCard = ({ text }: { text: string }) => (
   <div className="p-8 bg-green-200 shadow-lg rounded-lg transform hover:scale-105 transition duration-300 ease-in-out">
     <p className="text-black font-semibold text-lg uppercase">{text}</p>
   </div>

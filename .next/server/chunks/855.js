@@ -1,0 +1,1 @@
+"use strict";exports.id=855,exports.ids=[855],exports.modules={4855:(t,e,s)=>{s.r(e),s.d(e,{default:()=>o});let o=(0,s(5347).createProxy)(String.raw`/home/shakot/Desktop/AMANI CONTRACT/TDM/site/components/scroll-animation.tsx#default`)}};
