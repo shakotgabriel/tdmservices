@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/Home/page.tsx -> @/components/scroll-animation\":{\"id\":\"app/Home/page.tsx -> @/components/scroll-animation\",\"files\":[]}}"
