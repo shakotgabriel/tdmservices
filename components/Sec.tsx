@@ -1,6 +1,6 @@
 "use client";
 
-import { EyeIcon, TargetIcon } from "lucide-react";
+
 import Image from 'next/image';
 import FlipCard from "./animata/flip-card";
 import FadeInRight from "./fadeinright";
